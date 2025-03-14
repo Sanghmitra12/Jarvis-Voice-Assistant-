@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JARVIS - Voice Assistant
 
 This application is a robust voice assistant designed to run on the local machine, inspired by the JARVIS voice assistant from the Marvel Universe.
@@ -73,3 +74,6 @@ To run the project locally, start the development server or application using:
 ```bash
 python main.py
 
+=======
+# Jarvis-Voice-Assistant-
+>>>>>>> 9b2d509faacd7afb80c8d4bce41b7e2c20f21e18
